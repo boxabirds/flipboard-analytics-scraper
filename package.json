@@ -1,0 +1,19 @@
+{
+  "name": "flipboard-analytics-scraper",
+  "version": "1.0.0",
+  "description": "Simple utility for automating the download of flipboard analytics for an account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@puppeteer/replay": "^3.0.0",
+    "@replayio/puppeteer": "^0.2.11",
+    "chromedriver": "^126.0.5",
+    "puppeteer": "^22.13.1",
+    "selenium-webdriver": "^4.23.0"
+  }
+}
